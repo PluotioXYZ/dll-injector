@@ -1,0 +1,2 @@
+C:\Users\Noah\Documents\Visual Studio 2022\projects\new\bin\Release\net6.0-windows\win-x64\publish\DLLInjector.pdb
+C:\Users\Noah\Documents\Visual Studio 2022\projects\new\bin\Release\net6.0-windows\win-x64\publish\DLLInjector.exe
